@@ -2,7 +2,7 @@
 Contributors: blogestudio, pauiglesias
 Tags: seo, search-engines, index, indexing, block, admin, message, privacy, protection, menus, visibility, warning, prevent, prevention, hide, public
 Requires at least: 3.3.2
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.1
 
 Show a warning message when your blog visibility is blocked for search engines. Also, hides the de-indexing option.
